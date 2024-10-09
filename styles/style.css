@@ -1,0 +1,38 @@
+/* Text Style */
+html {
+  font-size: 16px; /* Base font size */
+}
+
+body {
+  font-size: 1rem; /* 16px */
+}
+
+h1 {
+  font-size: 5rem; /* 32px */
+  text-align: center;
+}
+
+h2 {
+  font-size: 3rem;
+  text-align: center;
+  color: #462C2A;
+}
+
+p {
+  text-align: center;
+  font-size: 1rem; /* 16px */
+}
+
+.feature-text-top {
+  color: #462C2A;
+}
+
+.feature-text-bottom {
+  color: #6C4E21;
+}
+
+.testimonial-title {
+  font-size: 2em;
+  font-weight: 700;
+}
+/*  */
